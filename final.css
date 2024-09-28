@@ -310,6 +310,8 @@ animation: translationxl 5s ease-in-out;
     top: 20%;
     width: 100%;
     left: 3%;
+    cursor : pointer;
+
   }
 
   #start{
